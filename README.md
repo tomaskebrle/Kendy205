@@ -2,7 +2,9 @@
 I am Tomáš, and I like to do all sorts of stuff.
 
 # What can I do
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kendy205)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kendy205&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kendy205&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # My hobbies
