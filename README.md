@@ -1,5 +1,5 @@
 # Hello 👋
-My name is Tomáš, I like coding and tinkering with my OS, mainly on linux
+My name is Tomáš, I like coding ~~useless~~ things and websites. Currently learning C and Unity#
 
 # What can I do
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kendy205&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
