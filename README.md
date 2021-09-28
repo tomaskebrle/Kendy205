@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomáš Kebrle</h1>
 <h3 align="center">A 16.yo beginner</h3>
 
-- 🔭 I’m currently working on [SchoolMesh](schoolmeshapp.com)
+- 🔭 I’m currently working on [SchoolMesh](https://schoolmeshapp.com)
 
 - 🌱 I’m currently learning **Svelte(kit), Astro, Flutter, Firebase and more!**
 
-- 👨‍💻 All of my projects are available at [tomaskebrle.cz](tomaskebrle.cz)
+- 👨‍💻 All of my projects are available at [tomaskebrle.cz](https://tomaskebrle.cz) and [Github](https://github.com/Kendy205)
 
 - 📫 How to reach me **contact@tomaskebrle.cz**
 
