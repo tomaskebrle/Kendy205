@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm Tomáš Kebrle</h1>
-<h3 align="center">A 16.yo beginner</h3>
+<table border="0" align="center">
+<tr>
+<td align="center" width="324" rowspan="3" border="0">
+<img src="https://raw.githubusercontent.com/Kendy205/Kendy205/master/logo.svg" alt="Illustration" width="324" />
+</td>
+<td align="center" width="440" border="0">
+<img src="https://github-readme-stats.vercel.app/api?username=Kendy205&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff" alt="Stats" width="440" />
+</tr>
+<tr>
+</tr>
+<tr>
+<td align="center" width="440" border="0">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kendy205&show_icons=true&hide_border=true&bg_color=161b22&icon_color=79c0ff&text_color=c9d1d9&title_color=79c0ff&layout=compact&card_width=440&langs_count=6" alt="Stats" width="440" />
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on [SchoolMesh](https://schoolmeshapp.com)
 
-- 🌱 I’m currently learning **Svelte(kit), Astro, Flutter, Firebase and more!**
-
-- 👨‍💻 All of my projects are available at [tomaskebrle.cz](https://tomaskebrle.cz) and [Github](https://github.com/Kendy205)
-
-- 📫 How to reach me **contact@tomaskebrle.cz**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/Kendy#9424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kendy#9424" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank">
