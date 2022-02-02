@@ -7,7 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://tomaskebrle.cz](https://tomaskebrle.cz)
 
-- 📝 I regularly write articles on [https://tomaskebrle.cz/blog](https://tomaskebrle.cz/blog)
+- 📝 I ~regularly~ write articles on [https://tomaskebrle.cz/blog](https://tomaskebrle.cz/blog)
+
+- 📫 How to reach me **contact@tomaskebrle.cz**
 
 - ⚡ Fun fact **I user Arch btw**
 
