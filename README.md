@@ -115,5 +115,5 @@
 
 # Stats
 
-![Grade](https://github-readme-stats.vercel.app/api?username=Kendy205&theme=dark)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kendy205&theme=dark)
+![Grade](https://github-readme-stats.vercel.app/api?username=Kendy205&theme=dark&count_private=true)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kendy205&theme=dark&count_private=true)
